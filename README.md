@@ -2,7 +2,7 @@
 
 This repository is a collection of my security research, writeups, and walkthroughs. It includes:
 
-Bug Bounty & VDP Disclosures: Real vulnerabilities found through responsible disclosure programs (published only with explicit permission)
+Bug Bounty & VDP Disclosures: Real vulnerabilities found through responsible disclosure programs (published only with explicit permission or heavily redacted)
 
 CTF Walkthroughs: Step-by-step breakdowns of attack chains from capture-the-flag, mostly from hacksmarter.org which is a platform that creates realistic enagagments rather than puzzle style ctfs
 
