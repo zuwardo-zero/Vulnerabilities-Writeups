@@ -6,4 +6,4 @@ Bug Bounty & VDP Disclosures: Real vulnerabilities found through responsible dis
 
 CTF Walkthroughs: Step-by-step breakdowns of attack chains from capture-the-flag, mostly from hacksmarter.org which is a platform that creates realistic enagagments rather than puzzle style ctfs
 
-Everything here is shared for educational purposes. If you find something useful, feel free to star the repo or reach out.
+Everything here is shared for educational purposes. Hopefully you find something useful.
