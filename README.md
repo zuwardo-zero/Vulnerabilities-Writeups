@@ -1,4 +1,5 @@
-**Security Research & Writeups**
+**Security Research & Writeups:**
+
 This repository is a collection of my security research, writeups, and walkthroughs. It includes:
 
 Bug Bounty & VDP Disclosures: Real vulnerabilities found through responsible disclosure programs (published only with explicit permission)
