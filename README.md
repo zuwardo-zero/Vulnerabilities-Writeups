@@ -1,8 +1,8 @@
 **Security Research & Writeups:**
 
-This repository is a collection of my security research which is mostly conducted on live production assets (with authorization for testing) + writeups and walkthroughs. It includes:
+This repository is a collection for some of my security research (writeups and walkthroughs) which is mostly conducted on live production assets. It includes:
 
-Bug Bounty & VDP Disclosures: Real vulnerabilities found through responsible disclosure programs (published only with explicit permission, mostly redacted)
+Bug Bounty & VDP Disclosures: Real vulnerabilities found through responsible disclosure programs ranging from web, mobile and cloud (mostly redacted).
 
 CTF Walkthroughs: Step-by-step breakdowns of attack chains from capture-the-flag, mostly from hacksmarter.org which is a platform that creates realistic enagagments rather than puzzle style ctfs.
 
