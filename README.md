@@ -1,6 +1,6 @@
 **Security Research & Writeups:**
 
-This repository is a collection for some of my security research (writeups and walkthroughs) which is mostly conducted on live production assets. It includes:
+This repository is a collection for some of my security research (writeups and walkthroughs) which is mostly conducted on live production assets or realistic labs. It includes:
 
 Bug Bounty & VDP Disclosures: Real vulnerabilities found through responsible disclosure programs ranging from web, mobile and cloud (mostly redacted).
 
